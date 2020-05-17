@@ -1,0 +1,29 @@
+{
+  "name": "videomakerbyfd",
+  "version": "1.0.0",
+  "description": "This is the first version to create the automatic video creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlendreLopes/video_maker_fd.git"
+  },
+  "keywords": [
+    "video",
+    "creator",
+    "automatic",
+    "video",
+    "creator"
+  ],
+  "author": "Alendre Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlendreLopes/video_maker_fd/issues"
+  },
+  "homepage": "https://github.com/AlendreLopes/video_maker_fd#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
