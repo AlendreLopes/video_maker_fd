@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/AlendreLopes/video_maker_fd/issues"
   },
-  "homepage": "https://github.com/AlendreLopes/video_maker_fd#readme"
+  "homepage": "https://github.com/AlendreLopes/video_maker_fd#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
